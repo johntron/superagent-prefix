@@ -1,0 +1,23 @@
+{
+  "name": "superagent-prefix",
+  "version": "0.0.2",
+  "description": "A plugin for superagent that prefixes absolute URLs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattahorton/superagent-prefix.git"
+  },
+  "keywords": [
+    "prefix",
+    "superagent"
+  ],
+  "author": "Matt Horton <matthew.a.horton@gmail.com> (http://mattahorton.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattahorton/superagent-prefix/issues"
+  },
+  "homepage": "https://github.com/mattahorton/superagent-prefix"
+}
