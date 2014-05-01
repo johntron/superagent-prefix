@@ -1,17 +1,14 @@
 
 # superagent-prefix
 
-  A plugin for superagent that prefixes absolute URLs
+  A plugin for superagent that prefixes absolute URLs.
+  Forked from [johntron/superagent-prefix](https://github.com/johntron/superagent-prefix) to be published on npm.
 
 ## Installation
 
-  Install with [component(1)](http://component.io):
+  Install with [npm](http://npmjs.org):
 
-    $ component install johntron/superagent-prefix
-
-## API
-
-
+    $ npm install superagent-prefix
 
 ## License
 
