@@ -10,6 +10,19 @@
 
     $ npm install superagent-prefix
 
+## Usage
+
+```javascript
+var request = require('superagent'),
+	prefix = require('superagent-prefix')('/static');
+
+// Prefix all requests with /static
+prefix(request);
+
+// Request /static/data.json
+request.get('/data.json');
+```
+
 ## License
 
   MIT
