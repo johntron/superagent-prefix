@@ -1,0 +1,14 @@
+{
+  "name": "superagent-prefix",
+  "repo": "johntron/superagent-prefix",
+  "description": "A plugin for superagent that prefixes absolute URLs.",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

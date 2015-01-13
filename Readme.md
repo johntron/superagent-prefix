@@ -12,16 +12,7 @@
 
 ## Usage
 
-```javascript
-var request = require('superagent'),
-	prefix = require('superagent-prefix')('/static');
-
-// Prefix all requests with /static
-prefix(request);
-
-// Request /static/data.json
-request.get('/data.json');
-```
+  See [example/index.js](/example/index.js) for usage with [Component](https://github.com/componentjs/component).
 
 ## License
 
