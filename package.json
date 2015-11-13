@@ -4,6 +4,7 @@
   "description": "A plugin for superagent that prefixes absolute URLs.",
   "main": "index.js",
   "scripts": {
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
